@@ -16,6 +16,6 @@
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=merko)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vansh93s&show_icons=true&theme=merko)
 
 ### 🔥 Keep Learning, Keep Building!
